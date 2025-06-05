@@ -26,6 +26,8 @@ Revisa [LiveShare](https://youtu.be/9QXwSg9-2qQ). Revisa el [uso de LiveShare](h
 # Manejo de Matriz en TXT
 
 -Vienen incluidos en la carpeta src/archivostxt, actualmente hay 3 archivos matriz1.txt, matriz2.txt y matriz3.txt.
+
 -Al ejecutar solo mencione el nombre del archivo sin el .txt ejemplo (matriz1, matriz2, matriz3).
+
 -Si se desea se puede crear un nuevo archivo al ingresar un nombre diferente cuando guardamos la suma.
 
