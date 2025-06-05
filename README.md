@@ -5,7 +5,6 @@ Repositorio simulador de ambiente de Producción
 * Calculadora - Comando para su despliegue desde Docker Hub:
 ```
 docker run -it sebastian057/calculadora_fracciones:latest
-docker run -it joseocio/calculadora:latest
 
 ```
 
